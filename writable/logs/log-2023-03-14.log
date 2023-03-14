@@ -1,0 +1,32 @@
+CRITICAL - 2023-03-14 03:18:31 --> Creation of dynamic property App\Controllers\Report::$mahasiswa is deprecated
+in APPPATH\Controllers\Report.php on line 13.
+ 1 APPPATH\Controllers\Report.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Report::$mahasiswa is deprecated', 'APPPATH\\Controllers\\Report.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Report->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-03-14 03:18:40 --> Creation of dynamic property App\Controllers\Report::$mahasiswa is deprecated
+in APPPATH\Controllers\Report.php on line 13.
+ 1 APPPATH\Controllers\Report.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Report::$mahasiswa is deprecated', 'APPPATH\\Controllers\\Report.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Report->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-03-14 03:18:43 --> Creation of dynamic property App\Controllers\Report::$mahasiswa is deprecated
+in APPPATH\Controllers\Report.php on line 13.
+ 1 APPPATH\Controllers\Report.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Report::$mahasiswa is deprecated', 'APPPATH\\Controllers\\Report.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Report->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-03-14 03:18:47 --> Creation of dynamic property App\Controllers\Report::$mahasiswa is deprecated
+in APPPATH\Controllers\Report.php on line 13.
+ 1 APPPATH\Controllers\Report.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Report::$mahasiswa is deprecated', 'APPPATH\\Controllers\\Report.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Report->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
