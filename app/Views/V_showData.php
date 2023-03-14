@@ -154,22 +154,7 @@
 
 	</div>
 
-  <nav class="navbar navbar-dark bg-dark">
-  <div class="container-fluid">
-    <form class="d-flex input-group w-auto">
-      <input
-        type="search"
-        class="form-control rounded"
-        placeholder="Search"
-        aria-label="Search"
-        aria-describedby="search-addon"
-      />
-      <span class="input-group-text text-white border-0" id="search-addon">
-        <i class="fas fa-search"></i>
-      </span>
-    </form>
-  </div>
-</nav>
+
 
 	<!-- Load Bootstrap JS -->
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
