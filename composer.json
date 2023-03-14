@@ -13,7 +13,8 @@
         "kint-php/kint": "^4.2",
         "laminas/laminas-escaper": "^2.9",
         "psr/log": "^1.1",
-        "twbs/bootstrap": "5.3.0-alpha1"
+        "twbs/bootstrap": "5.3.0-alpha1",
+        "dompdf/dompdf": "*"
     },
     "require-dev": {
         "codeigniter/coding-standard": "^1.5",
